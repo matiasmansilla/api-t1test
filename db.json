@@ -7,7 +7,15 @@
             "type": "ahorro",
             "description": "Cuenta ahorro propia",
             "bankManager": "Santander",
-            "owner": "user",
+            "owner": {
+                "name": "Nicolas",
+                "latName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34957759"
+            },
+            "manager": "user",
             "balance": 123456.77
         },
         {
@@ -17,7 +25,15 @@
             "type": "corriente",
             "description": "Cuenta Corriente propia",
             "bankManager": "Santander",
-            "owner": "user",
+            "owner": {
+                "name": "Nicolas",
+                "latName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34112233"
+            },
+            "manager": "user",
             "balance": 123456.77
         },
         {
@@ -27,7 +43,15 @@
             "type": "corriente",
             "description": "Cuenta Corriente Otro",
             "bankManager": "Macro",
-            "owner": "third",
+            "owner": {
+                "name": "Test",
+                "latName": "Otro",
+                "dateOfBirth": "25/10/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34001122"
+            },
+            "manager": "third",
             "balance": 0
         }
     ],
