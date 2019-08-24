@@ -13,7 +13,7 @@
         {
             "id": 2,
             "alias": "Cuenta Corriente",
-            "accountNumber": 12345678910111214,
+            "accountNumber": "12345678910111214",
             "type": "corriente",
             "description": "Cuenta Corriente propia",
             "bankManager": "Santander",
