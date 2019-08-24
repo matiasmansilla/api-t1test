@@ -9,7 +9,7 @@
             "bankManager": "Santander",
             "owner": {
                 "name": "Nicolas",
-                "latName": "Leguizamon",
+                "lastName": "Leguizamon",
                 "dateOfBirth": "30/11/1993",
                 "country": "Argentina",
                 "city": "Tucuman",
@@ -27,7 +27,7 @@
             "bankManager": "Santander",
             "owner": {
                 "name": "Nicolas",
-                "latName": "Leguizamon",
+                "lastName": "Leguizamon",
                 "dateOfBirth": "30/11/1993",
                 "country": "Argentina",
                 "city": "Tucuman",
@@ -45,7 +45,7 @@
             "bankManager": "Macro",
             "owner": {
                 "name": "Test",
-                "latName": "Otro",
+                "lastName": "Otro",
                 "dateOfBirth": "25/10/1993",
                 "country": "Argentina",
                 "city": "Tucuman",
