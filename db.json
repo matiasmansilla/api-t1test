@@ -16,7 +16,7 @@
                 "identifier": "34957759"
             },
             "manager": "user",
-            "balance": 123456.77
+            "balance": 323450.77
         },
         {
             "id": 2,
@@ -63,6 +63,7 @@
           "date": "24/08/2019 6:50PM",
           "description": "transferencia a cuenta corriente propia",
           "amount": 250.15,
+          "currency": "USD",
           "type": "own"   
         },
         {
@@ -72,6 +73,7 @@
             "date": "25/08/2019 6:50PM",
             "description": "transferencia a cuenta corriente propia",
             "amount": 280.15,
+            "currency": "USD",
             "type": "own"   
         },
         {
@@ -81,6 +83,7 @@
             "date": "26/08/2019 6:50PM",
             "description": "transferencia a cuenta corriente terceros",
             "amount": 350.15,
+            "currency": "USD",
             "type": "third"   
         },
         {
@@ -90,6 +93,7 @@
             "date": "24/08/2019 6:50PM",
             "description": "transferencia a cuenta corriente terceros",
             "amount": 250.15,
+            "currency": "USD",
             "type": "third"   
         }
     ]
