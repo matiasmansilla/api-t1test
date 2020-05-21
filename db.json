@@ -36,6 +36,92 @@
             "manager": "user",
             "balance": 123456.77
         },
+                {
+            "id": 2,
+            "alias": "Cuenta Corriente",
+            "accountNumber": "12345678910111214",
+            "type": "corriente",
+            "description": "Cuenta Corriente propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34112233"
+            },
+            "manager": "user",
+            "balance": 123456.77
+        },        {
+            "id": 2,
+            "alias": "Cuenta Corriente",
+            "accountNumber": "12345678910111214",
+            "type": "corriente",
+            "description": "Cuenta Corriente propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34112233"
+            },
+            "manager": "user",
+            "balance": 123456.77
+        },        {
+            "id": 2,
+            "alias": "Cuenta Corriente",
+            "accountNumber": "12345678910111214",
+            "type": "corriente",
+            "description": "Cuenta Corriente propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34112233"
+            },
+            "manager": "user",
+            "balance": 123456.77
+        },        {
+            "id": 2,
+            "alias": "Cuenta Corriente",
+            "accountNumber": "12345678910111214",
+            "type": "corriente",
+            "description": "Cuenta Corriente propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34112233"
+            },
+            "manager": "user",
+            "balance": 123456.77
+        },        {
+            "id": 2,
+            "alias": "Cuenta Corriente",
+            "accountNumber": "12345678910111214",
+            "type": "corriente",
+            "description": "Cuenta Corriente propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34112233"
+            },
+            "manager": "user",
+            "balance": 123456.77
+        },
         {
             "id": 3,
             "alias": "Cuenta Corriente Otro",
