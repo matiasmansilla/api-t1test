@@ -19,6 +19,96 @@
             "balance": 323450.77
         },
         {
+            "id": 1,
+            "alias": "Cuenta Ahorro",
+            "accountNumber": "12345678910111213",
+            "type": "ahorro",
+            "description": "Cuenta ahorro propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34957759"
+            },
+            "manager": "user",
+            "balance": 323450.77
+        },
+        {
+            "id": 1,
+            "alias": "Cuenta Ahorro",
+            "accountNumber": "12345678910111213",
+            "type": "ahorro",
+            "description": "Cuenta ahorro propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34957759"
+            },
+            "manager": "user",
+            "balance": 323450.77
+        },
+        {
+            "id": 1,
+            "alias": "Cuenta Ahorro",
+            "accountNumber": "12345678910111213",
+            "type": "ahorro",
+            "description": "Cuenta ahorro propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34957759"
+            },
+            "manager": "user",
+            "balance": 323450.77
+        },
+        {
+            "id": 1,
+            "alias": "Cuenta Ahorro",
+            "accountNumber": "12345678910111213",
+            "type": "ahorro",
+            "description": "Cuenta ahorro propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34957759"
+            },
+            "manager": "user",
+            "balance": 323450.77
+        },
+        {
+            "id": 1,
+            "alias": "Cuenta Ahorro",
+            "accountNumber": "12345678910111213",
+            "type": "ahorro",
+            "description": "Cuenta ahorro propia",
+            "bankManager": "Santander",
+            "owner": {
+                "name": "Nicolas",
+                "lastName": "Leguizamon",
+                "dateOfBirth": "30/11/1993",
+                "country": "Argentina",
+                "city": "Tucuman",
+                "identifier": "34957759"
+            },
+            "manager": "user",
+            "balance": 323450.77
+        },
+        {
             "id": 2,
             "alias": "Cuenta Corriente",
             "accountNumber": "12345678910111214",
